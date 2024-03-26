@@ -1,2 +1,2 @@
 # toDoList
-This app alows you to create a to do list made with ReactJs
+This app allows you to create a to do list made with ReactJs
